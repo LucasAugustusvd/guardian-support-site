@@ -8,8 +8,7 @@ title: Support
 Welcome! This page provides help, FAQs, and contact details for **Guardian** (iOS).
 
 **Need help fast?**  
-Email us at **[support@yourdomain.com](mailto:support@yourdomain.com)**  
-(Replace with your address.)
+Email us at **[mooferdam@gmail.com](mailto:mooferdam@gmail.com)**  
 
 ---
 
@@ -39,11 +38,8 @@ Make sure you’ve installed the latest TestFlight build and granted permissions
 ---
 
 ## Contact
-- **Email:** [support@yourdomain.com](mailto:support@yourdomain.com)  
-- **Twitter/X (optional):** https://twitter.com/yourhandle  
+- **Email:** [mooferdam@gmail.com](mailto:mooferdam@gmail.com)  
 - **Open an issue (optional):** https://github.com/<your-github-username>/guardian-support-site/issues
-
-We aim to respond within **48 hours**.
 
 ---
 
@@ -56,5 +52,3 @@ Read the full policy: **[Privacy Policy →](/privacy-policy)**
 ## Version & Changelog
 - **Current iOS version:** 1.0 (build 1)  
 - **What’s new:** Initial release with one-tap alerts, nearby opt-in, heatmap, and lock-screen widget.
-
-*(Update this section when you ship new versions.)*
